@@ -13,3 +13,8 @@ The replay feature shows how to create the chart or table you are viewing. Use i
      ![]({{ site.baseurl }}/images/replay_search_icon.png "The Replay search icon")
 
     The replay will start automatically. You can pause and resume it by clicking on it.
+    Following features are not supported: 
+    * Conditional Formatting
+    * User Defined Formulae
+    * Multiple Join Paths
+    * Bulk Filters
